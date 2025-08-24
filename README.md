@@ -16,7 +16,10 @@ Os gráficos abaixo resumem os principais achados da análise de reincidência d
 
 | Top 10 Filiais com Maior Reincidência | Principais Causas de Chamados (% do Total) |
 | :---: | :---: |
-| ![Top 10 Filiais](caminho/para/o/seu/grafico_filiais.png) | ![Principais Causas](caminho/para/o/seu/grafico_causas.png) |
+| <img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/57a5f0c5-f989-4219-acff-1e3d038f2546" /> | <img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/23e8da4d-8837-4cc5-bfac-346bdc06678e" /> |
+
+
+
 
 ## 💡 Principais Achados e Recomendações
 
